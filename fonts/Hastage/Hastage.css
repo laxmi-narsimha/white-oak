@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Hastage';
+    src: url('fonts/Hastage.eot');
+    src: url('fonts/Hastage.eot') format('embedded-opentype'),
+         url('fonts/Hastage.woff2') format('woff2'),
+         url('fonts/Hastage.woff') format('woff'),
+         url('fonts/Hastage.ttf') format('truetype'),
+         url('fonts/Hastage.svg#Hastage') format('svg');
+}
