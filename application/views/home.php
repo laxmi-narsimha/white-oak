@@ -1,8 +1,5 @@
 
-  <?php include('header.php');
-//    echo "<pre>";
-//    print_r($salon_info);
-    ?>  
+  <?php include('header.php'); ?>  
 
     <!-- Maincontent Start -->
     <main>

@@ -8,5 +8,6 @@ class Our_team extends CI_Controller {
 	//	$data['add'] = $this->my_model->get_all_data();  
 		//echo "<pre>"; print_r ($data['add']);die();
 		$this->load->view('our_team');
+		
 	}
 }

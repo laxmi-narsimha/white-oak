@@ -6,7 +6,6 @@ class Home extends CI_Controller {
 	function __construct() {
         parent::__construct();
 		$this->load->library('curl');
-		$this->load->helper(array('form','url'));
     }
 
 	public function index()
